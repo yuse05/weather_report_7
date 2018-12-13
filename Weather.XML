@@ -2,22 +2,22 @@
 <rss version="2.0">
 <channel>
 <title>기상청 육상 중기예보</title>
-<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
 <description>기상청 날씨 웹서비스</description>
 <language>ko</language>
 <generator>기상청</generator>
-<pubDate>2018년 12월 06일 (목)요일 18:00</pubDate>
+<pubDate>2018년 12월 13일 (목)요일 18:00</pubDate>
  <item>
 <author>기상청</author>
 <category>육상중기예보</category>
-<title>전국 육상 중기예보 - 2018년 12월 06일 (목)요일 18:00 발표</title>
-<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
-<guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
+<title>서울,경기도 육상 중기예보 - 2018년 12월 13일 (목)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
 <description>
 	<header>
-		<title>전국 육상중기예보</title>
-		<tm>201812061800</tm>
-		<wf><![CDATA[기압골의 영향으로 11일 전국에 눈 또는 비가 오겠고, 강원영동은 12일까지 눈이 지속되겠습니다. <br />그 밖의 날은 고기압의 영향으로 대체로 맑은 날이 많겠습니다.<br />기온은 평년(최저기온: -9~3℃, 최고기온: 3~12℃)보다 낮겠습니다.<br />강수량은 평년(0~2mm)과 비슷하거나 조금 많겠습니다.<br /><br />* 찬 대륙고기압 영향으로 10일까지 기온이 큰 폭으로 떨어지고 낮 기온도 평년보다 3~7도 낮아 춥겠으니, 건강관리에 유의하기 바랍니다.<br />  한편, 동해상에는 9일 바람이 매우 강하게 불고 물결도 매우 높게 일겠으니, 항해나 조업 선박은 유의하기 바랍니다.]]></wf>
+		<title>서울,경기도 육상중기예보</title>
+		<tm>201812131800</tm>
+		<wf><![CDATA[기압골의 영향으로 16일은 비 또는 눈이 오겠고, 그 밖의 날은 고기압의 영향으로 대체로 맑은 날이 많겠습니다.<br />기온은 평년(최저기온: -6~-3℃, 최고기온: 3~5℃)과 비슷하겠습니다.<br />강수량은 평년(0~1mm)과 비슷하거나 조금 많겠습니다.<br />서해중부해상의 물결은 1.0~2.5m로 일겠습니다.]]></wf>
 	</header>
 	<body>
 				
@@ -28,119 +28,109 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>-1</tmx>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>-1</tmx>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>2</tmx>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
+					<tmEf>2018-12-17 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>2</tmx>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -148,10 +138,20 @@
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
+					<tmEf>2018-12-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -164,130 +164,130 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>-2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>-2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-1</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
 					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>1</tmn>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
 					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -300,129 +300,129 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>0</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>0</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
 					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
 					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -436,29 +436,89 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-15</tmn>
-					<tmx>-1</tmx>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-15</tmn>
-					<tmx>-1</tmx>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-11</tmn>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
 					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -466,89 +526,19 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-11</tmn>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
 					<tmx>3</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-10</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -556,67 +546,115 @@
 				
 				<data>
 					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
 					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>강원도영서</province>
-				<city>춘천</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
+					<tmEf>2018-12-17 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-13</tmn>
-					<tmx>-2</tmx>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
+					<tmEf>2018-12-18 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-13</tmn>
-					<tmx>-2</tmx>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
+					<tmEf>2018-12-18 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-10</tmn>
-					<tmx>2</tmx>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
+					<tmEf>2018-12-19 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-10</tmn>
-					<tmx>2</tmx>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-6</tmn>
+					<tmn>-3</tmn>
 					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -624,205 +662,19 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>강원도영서</province>
-				<city>원주</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-12</tmn>
-					<tmx>-1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-12</tmn>
-					<tmx>-1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-20 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-6</tmn>
+					<tmn>-3</tmn>
 					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -830,47 +682,171 @@
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
+					<tmEf>2018-12-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-6</tmn>
-					<tmx>4</tmx>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 
 		</location>
 
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
 
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
 
 		<location wl_ver="3">
-				<province>강원도영동</province>
-				<city>강릉</city>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>백령도</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>5</tmn>
 					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -878,9 +854,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>5</tmn>
 					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -888,7 +864,349 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>과천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광명</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>1</tmn>
 					<tmx>6</tmx>
@@ -897,60 +1215,10 @@
 
 				
 				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
+					<tmn>2</tmn>
 					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -958,193 +1226,171 @@
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
+					<tmEf>2018-12-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>대전ㆍ세종ㆍ충청남도</province>
-				<city>대전</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmn>-2</tmn>
 					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
 
 		</location>
 
 		<location wl_ver="3">
-				<province>대전ㆍ세종ㆍ충청남도</province>
-				<city>세종</city>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>강화</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>0</tmx>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>0</tmx>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-9</tmn>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>김포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1152,9 +1398,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1162,281 +1408,1165 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>시흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>부천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의정부</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>고양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>동두천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>연천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
 					<wf>구름많고 비/눈</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmx>0</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmx>0</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-5</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
-
-		</location>
-
-		<location wl_ver="3">
-				<province>대전ㆍ세종ㆍ충청남도</province>
-				<city>홍성</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>0</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>0</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
 					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>충청북도</province>
-				<city>청주</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-10</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-10</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-20 12:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-4</tmn>
 					<tmx>4</tmx>
@@ -1445,9 +2575,1379 @@
 
 				
 				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>포천</city>
+				
+				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 눈</wf>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>가평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>구리</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>남양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>하남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>오산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>화성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>성남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
 					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
@@ -1455,508 +3955,570 @@
 
 				
 				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
+					<tmEf>2018-12-23 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 
 		</location>
 
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의왕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
 
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
 
 		<location wl_ver="3">
-				<province>광주ㆍ전라남도</province>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>군포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>용인</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-17 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-23 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
 				<city>광주</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2018-12-16 00:00</tmEf>
+					<wf>구름많고 비/눈</wf>
 					<tmn>-5</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>광주ㆍ전라남도</province>
-				<city>목포</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>2</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>광주ㆍ전라남도</province>
-				<city>여수</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>3</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>4</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>4</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>전라북도</province>
-				<city>전주</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-7</tmn>
 					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1964,135 +4526,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
+					<tmEf>2018-12-16 12:00</tmEf>
 					<wf>구름많고 비/눈</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
 					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>전라북도</province>
-				<city>군산</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
 					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2100,69 +4536,49 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
+					<tmEf>2018-12-17 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
+					<tmEf>2018-12-18 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-19 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
 					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2170,19 +4586,49 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
+					<tmEf>2018-12-19 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmn>-5</tmn>
 					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
+					<tmEf>2018-12-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmn>-5</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2190,158 +4636,10 @@
 				
 				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
+					<tmEf>2018-12-23 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-4</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>부산ㆍ울산ㆍ경상남도</province>
-				<city>부산</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>3</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>3</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>11</tmx>
+					<tmx>-1</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2349,424 +4647,14 @@
 		</location>
 
 		<location wl_ver="3">
-				<province>부산ㆍ울산ㆍ경상남도</province>
-				<city>울산</city>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>여주</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>2</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>2</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
 					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>부산ㆍ울산ㆍ경상남도</province>
-				<city>창원</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
 					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>대구ㆍ경상북도</province>
-				<city>대구</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
 					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>대구ㆍ경상북도</province>
-				<city>안동</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
 					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2774,9 +4662,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
+					<tmEf>2018-12-16 12:00</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>-5</tmn>
 					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2784,9 +4672,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
+					<tmEf>2018-12-17 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-8</tmn>
+					<tmn>-3</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2794,9 +4682,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
+					<tmEf>2018-12-17 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-8</tmn>
+					<tmn>-3</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2804,9 +4692,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-4</tmn>
+					<tmEf>2018-12-18 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
 					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2814,9 +4702,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>-4</tmn>
+					<tmEf>2018-12-18 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
 					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2824,85 +4712,29 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
+					<tmEf>2018-12-19 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-4</tmn>
 					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
-
-		</location>
-
-		<location wl_ver="3">
-				<province>대구ㆍ경상북도</province>
-				<city>포항</city>
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
+					<tmEf>2018-12-19 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-12-20 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
 					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2910,394 +4742,40 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
+					<tmEf>2018-12-20 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-21 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-12-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmn>-5</tmn>
 					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비/눈</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
+					<tmEf>2018-12-23 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-
-
-		<location wl_ver="3">
-				<province>제주도</province>
-				<city>제주</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>6</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비</wf>
-					<tmn>9</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비</wf>
-					<tmn>9</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>8</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>7</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>7</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>8</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-
-		</location>
-
-		<location wl_ver="3">
-				<province>제주도</province>
-				<city>서귀포</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>8</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-09 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-10 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 00:00</tmEf>
-					<wf>구름많고 비</wf>
-					<tmn>9</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-11 12:00</tmEf>
-					<wf>구름많고 비</wf>
-					<tmn>9</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>12</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-12 12:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>7</tmn>
-					<tmx>12</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-12-13 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-14 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-15 00:00</tmEf>
-					<wf>구름조금</wf>
-					<tmn>5</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A01</mode>
-					<tmEf>2018-12-16 00:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>12</tmx>
+					<tmn>-5</tmn>
+					<tmx>0</tmx>
 					<reliability>보통</reliability>
 				</data>
 

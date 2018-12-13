@@ -2,5 +2,9 @@
 <MachineSize XSIZE="200" YSIZE="200"/>
 </Machine>
 <X>
-<COL Count="3"/>
+<COL Count="3">
+<Data>4</Data>
+<Data>7</Data>
+<Data>2</Data>
+</COL>
 </X>
