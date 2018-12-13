@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ROOT>
+<SCENE filename="0" lastframe="40" framespeed="30" ticksperframe="160">
+<BACKGROUND>0.0000 0.0000 0.0000</BACKGROUND>
+<AMBIENT>0.0000 0.0000 0.0000</AMBIENT>
+</SCENE>
+<SCENE filename="0" lastframe="40" framespeed="30" ticksperframe="160">
+<BACKGROUND>1.0000 1.0000 1.0000</BACKGROUND>
+<AMBIENT>1.0000 1.0000 1.0000</AMBIENT>
+</SCENE>
+</ROOT>
